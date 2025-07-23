@@ -1,0 +1,4 @@
+#include EAstdlib.event
+ORG 0x1000000
+
+#include "Yummers.txt"
